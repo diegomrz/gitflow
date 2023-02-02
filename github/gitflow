@@ -1,0 +1,13 @@
+
+Branches
+main
+
+hotfix
+
+develop
+
+feature
+
+
+Comandos
+git checkout -b [branchname]
